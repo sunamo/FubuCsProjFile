@@ -1,0 +1,31 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="../rakefile.rb" />
+  </Folder>
+  <Project Path="FubuMVC.SlickGrid.Docs/FubuMVC.SlickGrid.Docs.csproj" />
+  <Project Path="FubuMVC.SlickGrid.Serenity/FubuMVC.SlickGrid.Serenity.csproj" />
+  <Project Path="FubuMVC.SlickGrid.Testing/FubuMVC.SlickGrid.Testing.csproj" />
+  <Project Path="FubuMVC.SlickGrid/FubuMVC.SlickGrid.csproj" />
+  <Project Path="SlickGridHarness/SlickGridHarness.csproj" />
+  <Properties Name="TeamFoundationVersionControl">
+    <Property Name="SccEnterpriseProvider" Value="{4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}" />
+    <Property Name="SccLocalPath0" Value="." />
+    <Property Name="SccLocalPath1" Value="..\\FubuMVC.SlickGrid" />
+    <Property Name="SccLocalPath2" Value="..\\FubuMVC.SlickGrid.Testing" />
+    <Property Name="SccLocalPath3" Value="..\\SlickGridHarness" />
+    <Property Name="SccLocalPath4" Value="..\\FubuMVC.SlickGrid.Serenity" />
+    <Property Name="SccLocalPath5" Value="..\\FubuMVC.SlickGrid.Docs" />
+    <Property Name="SccNumberOfProjects" Value="5" />
+    <Property Name="SccProjectName1" Value="../FubuMVC.SlickGrid" />
+    <Property Name="SccProjectName2" Value="../FubuMVC.SlickGrid.Testing" />
+    <Property Name="SccProjectName3" Value="../SlickGridHarness" />
+    <Property Name="SccProjectName4" Value="../FubuMVC.SlickGrid.Serenity" />
+    <Property Name="SccProjectName5" Value="../FubuMVC.SlickGrid.Docs" />
+    <Property Name="SccProjectUniqueName1" Value="..\\FubuMVC.SlickGrid\\FubuMVC.SlickGrid.csproj" />
+    <Property Name="SccProjectUniqueName2" Value="..\\FubuMVC.SlickGrid.Testing\\FubuMVC.SlickGrid.Testing.csproj" />
+    <Property Name="SccProjectUniqueName3" Value="..\\SlickGridHarness\\SlickGridHarness.csproj" />
+    <Property Name="SccProjectUniqueName4" Value="..\\FubuMVC.SlickGrid.Serenity\\FubuMVC.SlickGrid.Serenity.csproj" />
+    <Property Name="SccProjectUniqueName5" Value="..\\FubuMVC.SlickGrid.Docs\\FubuMVC.SlickGrid.Docs.csproj" />
+    <Property Name="SccTeamFoundationServer" Value="https://tfs.foo.com/tfs" />
+  </Properties>
+</Solution>

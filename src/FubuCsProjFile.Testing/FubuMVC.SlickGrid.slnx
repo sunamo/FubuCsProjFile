@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="../rakefile.rb" />
+  </Folder>
+  <Project Path="FubuMVC.SlickGrid.Docs/FubuMVC.SlickGrid.Docs.csproj" />
+  <Project Path="FubuMVC.SlickGrid.Serenity/FubuMVC.SlickGrid.Serenity.csproj" />
+  <Project Path="FubuMVC.SlickGrid.Testing/FubuMVC.SlickGrid.Testing.csproj">
+    <BuildDependency Project="FubuMVC.SlickGrid/FubuMVC.SlickGrid.csproj" />
+  </Project>
+  <Project Path="FubuMVC.SlickGrid/FubuMVC.SlickGrid.csproj" />
+  <Project Path="SlickGridHarness/SlickGridHarness.csproj" />
+</Solution>
