@@ -1,6 +1,6 @@
 ---
 schema_version: 6
-type: library
+type: sample
 file_count: 206
 avg_lines_per_file: 72
 move_to_legacy_percent: 50
